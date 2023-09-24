@@ -1,6 +1,14 @@
+"""
+
+    Autor: Leonardo Becker de Oliveira
+    Contato: leonardobecker79@gmail.com
+    Última atualização: 24/09/2023
+    Link para o repositório: https://github.com/LeonardooBecker/processa_dados
+
+"""
+
 import sqlite3
 import csv
-
 from local_libs import constants as ct
 
 # Preenche os dados da linha e retorna se ela eh valida ou não
