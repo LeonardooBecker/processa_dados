@@ -11,11 +11,11 @@
 Para que o software consiga realizar seu processamento com exito é necessário que as pastas obtidas pela plataforma sigam o seguinte formato:
 
 1.  Diretório principal ( raiz do HD ), local onde é possível observar todos os condutores contidos no HD:
-    1.  No diretório principal, é necessário que todos as pastas de condutores possuam o nome com a formatação `"Condutor XX"`
+    1.  No diretório principal, é necessário que todas as pastas de condutores possuam o nome com a formatação `"Condutor XX"`
         ![Diretorio raiz](images/diretorioRaiz.png)
 
         Na imagem acima é possível observar pelo campo superior que estamos no diretório inicial do HD ( raiz ).    
-        Dentro deste diretório estão contidos um certo de número de condutores, com os respectivos dados, coletados pela plataforma.
+        Dentro deste diretório estão contidos um certo de número de condutores, com os respectivos dados coletados pela plataforma.
     
 2. Diretório condutor:
    1. Dentro das pastas dos condutores, devem estar localizado somente os Card do respectivo condutor, cujo nome deve seguir a seguinte formatação `"Card (número)"`
